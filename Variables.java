@@ -5,7 +5,7 @@ public class Variables {
 		double aa = 4.2;
 		long aaa = 4200;
 		float aaaa = 5.51f;
-		char aaaaa = 'b' ;
+		char aaaaa = 'b' ; // we need to use only single  quotes only for char
 		boolean b = true ;
 		byte bb = 127;
 		
