@@ -1,0 +1,14 @@
+                                      POINTS FOR JAVA
+JSHELL
+
+1)after installing java type jshell in cmd promt.
+
+2)jshell means java shell it is used for experiment like 2+3 it will give 5 same like 3-2 it will give 1.
+
+3) to print in jshell " System.out.print(6); " for string we need to keep " " .
+
+JAVA 
+1) your code will not work without Main in public static void main(String [] args).because main  java  code will be complie first.
+
+2) to compile java code javac file name .java ex: javac hello.java, to run java code we need to type the class name ex: java hello
+
