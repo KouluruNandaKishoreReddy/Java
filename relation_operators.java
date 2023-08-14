@@ -8,7 +8,7 @@ public class relation_operators {
 		int b = 6;
 		
 		
-	    boolean result = a < b; // Like this we can use <,>, == , >=, <=
+	    boolean result = a < b; // Like this we can use <,>, == , >=, <=,!=
 	    System.out.println(result);
 	    
 		 
